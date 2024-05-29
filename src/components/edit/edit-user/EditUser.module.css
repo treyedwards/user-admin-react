@@ -1,0 +1,10 @@
+.buttonContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
